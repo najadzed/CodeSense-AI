@@ -1,5 +1,4 @@
-#<img width="579" height="579" alt="Gemini_Generated_Image_x63tqbx63tqbx63t" src="https://github.com/user-attachments/assets/435da5fc-0855-404e-95df-37a83fab0962" />
-  CodeSense AI — Powered by Gemini  
+#<img width="579" height="579" alt="Gemini_Generated_Image_x63tqbx63tqbx63t" src="https://github.com/user-attachments/assets/435da5fc-0855-404e-95df-37a83fab0962" />) CodeSense AI — Powered by Gemini  
 ### _Understand your codebase instantly • Built for developers, by developers._
 
 <img width="1917" height="875" alt="Screenshot 2025-11-10 142843" src="https://github.com/user-attachments/assets/bb3e6b49-a332-44a8-93d2-4bef00713a8c" />
@@ -46,7 +45,7 @@ Query: “Summarize this frontend structure.”
 
 Gemini Summary
 React-based dashboard app using modular context providers, dynamic routing, and API abstraction hooks for clean scalability.
-
+```
 🖼️ Interface Showcase
 🏠 Main Dashboard
 <img width="1917" height="875" alt="Screenshot 2025-11-10 142843" src="https://github.com/user-attachments/assets/9ff5738c-673c-4114-b88d-6827d8a7d669" />
@@ -56,6 +55,7 @@ React-based dashboard app using modular context providers, dynamic routing, and 
 <img width="1525" height="851" alt="Screenshot 2025-11-10 143030" src="https://github.com/user-attachments/assets/7b742bc3-65c5-4959-b05d-5f2c0817ebd1" />
 ⚙️ Sidebar Controls
 <img width="363" height="876" alt="Screenshot 2025-11-10 143052" src="https://github.com/user-attachments/assets/4d83883f-a313-4fd5-bc97-6b0713099cf4" />
+```
 🧩 Tech Stack
 Layer	Technology
 Frontend	Streamlit (custom CSS, components, theme toggle)
