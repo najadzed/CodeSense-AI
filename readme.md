@@ -167,11 +167,3 @@ Powered by **CodeSense AI × Gemini** ⚡
 ```
 
 ---
-
-✅ **Ready to use:**
-
-* All your actual GitHub-hosted screenshots are embedded.
-* Clean markdown headers render beautifully on GitHub.
-* All sections structured clearly (overview → features → setup → credits).
-
----
