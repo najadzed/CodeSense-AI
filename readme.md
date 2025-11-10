@@ -1,7 +1,7 @@
 # 💻 CodeSense AI — Powered by Gemini  
 ### _Understand your codebase instantly • Built for developers, by developers._
 
-![CodeSense AI Preview](./assets/screenshots/dbcc026f-8b3b-4432-a5aa-d77479b38372.png)  
+![CodeSense AI Preview] (<img width="1917" height="875" alt="Screenshot 2025-11-10 142843" src="https://github.com/user-attachments/assets/bb3e6b49-a332-44a8-93d2-4bef00713a8c" />)
 *(Above: CodeSense AI in action — dark mode with Gemini-powered code summarization)*
 
 ---
@@ -50,12 +50,18 @@ React-based dashboard app using modular context providers, dynamic routing, and 
 🖼️ Interface Showcase
 Mode	Preview
 🏠 Main Dashboard	
+<img width="1917" height="875" alt="Screenshot 2025-11-10 142843" src="https://github.com/user-attachments/assets/9ff5738c-673c-4114-b88d-6827d8a7d669" />
 
 🧠 Code Summarization	
+<img width="1489" height="782" alt="Screenshot 2025-11-10 143015" src="https://github.com/user-attachments/assets/c7a0cc30-1095-496e-9042-4d9983d358b3" />
 
 💬 Developer Insights	
+<img width="1525" height="851" alt="Screenshot 2025-11-10 143030" src="https://github.com/user-attachments/assets/7b742bc3-65c5-4959-b05d-5f2c0817ebd1" />
 
-⚙️ Sidebar Controls	
+⚙️ Sidebar Controls
+<img width="363" height="876" alt="Screenshot 2025-11-10 143052" src="https://github.com/user-attachments/assets/4d83883f-a313-4fd5-bc97-6b0713099cf4" />
+
+
 🧩 Tech Stack
 Layer	Technology
 Frontend	Streamlit (custom CSS, components, theme toggle)
