@@ -49,7 +49,7 @@ React-based dashboard app using modular context providers, dynamic routing, and 
 
 🖼️ Interface Showcase
 Mode	Preview
-🏠 Main Dashboard	
+### 🏠 Main Dashboard	
 <img width="1917" height="875" alt="Screenshot 2025-11-10 142843" src="https://github.com/user-attachments/assets/9ff5738c-673c-4114-b88d-6827d8a7d669" />
 
 🧠 Code Summarization	
